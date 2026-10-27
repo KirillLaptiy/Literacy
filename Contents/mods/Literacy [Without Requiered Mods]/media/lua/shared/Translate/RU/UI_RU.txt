@@ -1,0 +1,10 @@
+UI_RU = {
+
+
+	UI_trait_PoorReader = "Плохой читатель"
+	UI_trait_PoorReaderDesc = "Множители опыта от книг уменьшены."
+	UI_trait_VerySlowReader = "Очень медленный читатель"
+	UI_trait_VerySlowReaderDesc = "Требуется гораздо больше времени для чтения книг."
+
+
+}

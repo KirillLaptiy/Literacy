@@ -1,0 +1,6 @@
+version=1
+id=3078259497
+title=Literacy [Without required mods]
+description=Literacy without required mods
+tags=Build 41;Literature;Multiplayer;Realistic;Traits
+visibility=unlisted

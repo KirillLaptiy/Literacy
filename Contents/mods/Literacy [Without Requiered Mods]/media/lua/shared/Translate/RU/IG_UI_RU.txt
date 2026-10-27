@@ -1,0 +1,9 @@
+IGUI_RU = {
+
+
+	IGUI_perks_Mind = "Ум",
+	IGUI_perks_Reading = "Грамотность",
+	IGUI_XP_readingspeed = "Скорость чтения: %1"
+
+
+}

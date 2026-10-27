@@ -1,0 +1,17 @@
+ItemName_RU = {
+
+
+	ItemName_Literacy.LiteracyMag = "Учимся читать!",
+	ItemName_Literacy.BookAiming1 = "Точность Том 1",
+	ItemName_Literacy.BookAiming2 = "Точность Том 2",
+	ItemName_Literacy.BookAiming3 = "Точность Том 3",
+	ItemName_Literacy.BookAiming4 = "Точность Том 4",
+	ItemName_Literacy.BookAiming5 = "Точность Том 5",
+	ItemName_Literacy.BookReloading1 = "Перезарядка Том 1",
+	ItemName_Literacy.BookReloading2 = "Перезарядка Том 2",
+	ItemName_Literacy.BookReloading3 = "Перезарядка Том 3",
+	ItemName_Literacy.BookReloading4 = "Перезарядка Том 4",
+	ItemName_Literacy.BookReloading5 = "Перезарядка Том 5",
+
+
+}

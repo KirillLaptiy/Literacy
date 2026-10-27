@@ -1,0 +1,7 @@
+Recipes_RU = {
+    
+
+	Recipe_Make_Reading_Guide = "Создать руководство по чтению"
+
+
+}

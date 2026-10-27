@@ -1,0 +1,8 @@
+Tooltip_RU = {
+
+
+	Tooltip_BookTitle_Aiming = "Точность"
+	Tooltip_BookTitle_Reloading = "Перезарядка"
+
+
+}
